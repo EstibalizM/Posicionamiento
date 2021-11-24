@@ -1,0 +1,44 @@
+.d1{
+	border: solid 3px blue;
+	width: 90px;
+	height: 90px;
+	background: skyblue;
+
+}
+#d1{
+	border:  solid 3px blue;
+	width: 90px;
+	height: 90px;
+	background: skyblue;
+	position: relative;
+	left: 105px;
+	bottom: 95px;
+}
+.d2{
+	border: solid 3px blue;
+	width: 90px;
+	height: 90px;
+	background: skyblue;
+	position: relative;
+	left: 225px;
+	bottom: 190px;
+}
+#d2{
+	border:  solid 3px blue;
+	width: 90px;
+	height: 90px;
+	background: skyblue;
+	position: relative;
+	left: 370px;
+	bottom: 285px;
+}
+.d3{
+
+	border:  solid 3px blue;
+	width: 90px;
+	height: 90px;
+	background: skyblue;
+	position: relative;
+	left: 500px;
+	bottom: 380px;
+}
